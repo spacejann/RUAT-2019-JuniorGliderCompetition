@@ -1,0 +1,2 @@
+# RUAT-2019-JuniorGliderCompetition
+ Placed 1st overall in RUAT’s annual Junior Glider Competition. It was broken down in various milestones which are the preliminary design review, cumulative design review, flight day, and post flightreport. This competition is design to prepare 1st and 2nd year engineering students fortheir capstone project. Students will learn how to work in a group environment, technical skills in CAD and programming.
